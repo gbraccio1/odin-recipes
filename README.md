@@ -1,2 +1,1 @@
-# odin-recipes
-Odin
+Odin Recipes Website Project.
